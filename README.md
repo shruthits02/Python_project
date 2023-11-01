@@ -30,7 +30,9 @@ The Python script scrapes movie reviews from IMDb and performs sentiment analysi
 ## IMDb Movie Review Sentiment Analysis with Visualization
 
 The Python script scrapes movie reviews from IMDb, performs sentiment analysis using TextBlob, and visualizes the results using a bar chart. It classifies reviews as positive or negative based on a predefined sentiment polarity threshold.
-
+<p align="center">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/b1c37ed6-0851-4235-989b-d4fb3419fa26">
+</p>
 
 
 
