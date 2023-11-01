@@ -1,4 +1,4 @@
-<h1>Python web scraping project using IMDB</h1>
+<h1>Python web scraping project using IMDb</h1>
 
 Scraping IMDb's top 20 movies list, the goal is to extract information about the top-rated movies, including their titles, release years, and ratings. IMDb is a popular online database of movies, TV shows, and celebrities, and it provides a list of the top-rated movies based on user and critic reviews. Web scraping allows you to automate the process of collecting this data instead of manually copying and pasting it.
 <p align="center">
@@ -23,9 +23,13 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - Metascore
 - Genre
 
-## IMDB Movie Review Sentiment Analysis
+## IMDb Movie Review Sentiment Analysis
 
 The Python script scrapes movie reviews from IMDb and performs sentiment analysis to classify them as positive or negative. It uses the BeautifulSoup library for web scraping and the TextBlob library for sentiment analysis.
+
+## IMDb Movie Review Sentiment Analysis with Visualization
+
+The Python script scrapes movie reviews from IMDb, performs sentiment analysis using TextBlob, and visualizes the results using a bar chart. It classifies reviews as positive or negative based on a predefined sentiment polarity threshold.
 
 
 
