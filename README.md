@@ -23,7 +23,7 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - Metascore
 - Genre
 
-# IMDb Movie Review Sentiment Analysis
+# IMDB Movie Review Sentiment Analysis
 
 The Python script scrapes movie reviews from IMDb and performs sentiment analysis to classify them as positive or negative. It uses the BeautifulSoup library for web scraping and the TextBlob library for sentiment analysis.
 
