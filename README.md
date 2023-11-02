@@ -33,7 +33,7 @@ The Python script is designed to scrape movie details from a specific IMDb list.
 - movie_names: A list of movie names.
 - :calendar: movie_years: A list of movie release years.
 - :watch: movie_times: A list of movie runtimes.
-- :watch: movie_ratings: A list of movie ratings.
+- :star: movie_ratings: A list of movie ratings.
 - movie_metascores: A list of movie metascores (if available).
 - movie_genres: A list of movie genres.
 
