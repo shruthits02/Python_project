@@ -5,7 +5,7 @@ Scraping IMDb's top 20 movies list, the goal is to extract information about the
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/7c793f9c-f634-4ff0-ba0b-9787eb942870" alt="Image" width="900">
 </p>
 
-## Information Source
+## :clipboard: Information Source
 
 The information is used in this analysis is derived from the following 
 
