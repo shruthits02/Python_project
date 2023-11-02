@@ -13,7 +13,7 @@ The information is used in this analysis is derived from the following
 URL: https://www.imdb.com/list/ls576754431/
 URL: https://www.imdb.com/title/tt10366206/reviews
 ```
-## Data Content
+## :page_facing_up: Data Content
 
 The project involves web scraping, data cleaning, analysis, and visualization data, the following information are :
 - IMDb Movie Details Scraper
