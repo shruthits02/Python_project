@@ -78,7 +78,7 @@ In this analysis, we delve into the distribution of movie ratings for a set of m
 In this analysis, we explore the distribution of movie genres within a dataset of movies. Our goal is to visualize the prevalence of different genres in the dataset, providing insights into the diversity of movie categories. The dataset includes a list of movie titles, each associated with one or more genres.
 
 <p align="center">
-  <img src="https://github.com/shruthits02/Python_project/assets/147556178/1648651a-c023-4d0f-8d2c-a997e8e8cc83">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/ce3c47c5-a5a0-4061-a1fb-50f8b0bf4cd0">
 </p>
 
 ## Conclusion
