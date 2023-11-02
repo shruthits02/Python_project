@@ -31,13 +31,13 @@ The Python script is designed to scrape movie details from a specific IMDb list.
 ### The script populates several lists with movie details:
 
 - movie_names: A list of movie names.
-- movie_years: A list of movie release years.
-- movie_times: A list of movie runtimes.
-- movie_ratings: A list of movie ratings.
+- :calendar: movie_years: A list of movie release years.
+- :watch: movie_times: A list of movie runtimes.
+- :watch: movie_ratings: A list of movie ratings.
 - movie_metascores: A list of movie metascores (if available).
 - movie_genres: A list of movie genres.
 
-## :cinema: IMDb Movie Review Sentiment Analysis
+## :cinema: IMDb Movie Review Sentiment :chart_with_upwards_trend: Analysis
 
 The Python script scrapes movie reviews from IMDb and performs sentiment analysis to classify them as positive or negative. It uses the BeautifulSoup library for web scraping and the TextBlob library for sentiment analysis.
 
