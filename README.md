@@ -46,7 +46,7 @@ The Python script scrapes movie reviews from IMDb and performs sentiment analysi
 The Python script scrapes movie reviews from IMDb, performs sentiment analysis using TextBlob, and visualizes the results using a bar chart. It classifies reviews as positive or negative based on a predefined sentiment polarity threshold.
 
 <p align="center">
-  <img src="https://github.com/shruthits02/Python_project/assets/147556178/b1c37ed6-0851-4235-989b-d4fb3419fa26">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/c9e8f81b-8c33-4ae8-b927-016a48fc1ec3">
 </p>
 
 ## :cinema: IMDb List Image Downloader
@@ -70,7 +70,7 @@ The Python script generates a horizontal bar chart to display the top 15 movies 
 In this analysis, we delve into the distribution of movie ratings for a set of movies. We explore the dataset, calculate key statistics, and visualize the distribution to gain insights into how these movies are rated. The dataset consists of movie ratings on a scale of 1 to 10, and our goal is to understand the central tendencies and spread of these ratings.
 
 <p align="center">
-  <img src="https://github.com/shruthits02/Python_project/assets/147556178/9698cdce-81ed-473a-8dfa-ff79c65418c3">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/4d76097f-e56c-414b-9728-085573d18cf9">
 </p>
 
 ## :cinema: Distribution of Movie Genres Analysis with Visualization :bar_chart:
