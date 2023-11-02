@@ -21,6 +21,7 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - IMDb Movie Review Sentiment Analysis with Visualization
 - IMDb List Image Downloader
 - Top 15 Movies by Rating Visualization
+- Movie Rating Statistics
 
 ## IMDb Movie Details Scraper
 
@@ -58,4 +59,10 @@ The Python script generates a horizontal bar chart to display the top 15 movies 
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/fde21cb5-31c8-4da3-81d4-9106c4314c2d">
 </p>
 
+## Movie Rating Statistics
 
+The Python script calculates and displays key statistical measures for a dataset of movie ratings. It uses the pandas library to load the movie ratings data, compute the mean (average) rating, calculate the median rating, and determine the standard deviation of the ratings.
+
+## Conclusion
+
+the Python scripts provided in this project are designed for various tasks related to movie data, including web scraping, sentiment analysis, image downloading, and statistical analysis of movie ratings. These scripts are versatile and can be adapted for specific use cases or integrated into larger projects. They demonstrate the use of libraries such as requests, beautifulsoup4, pandas, textblob, and matplotlib to perform a range of data-related tasks.
