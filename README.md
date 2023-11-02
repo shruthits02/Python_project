@@ -24,7 +24,7 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - Movie Rating statistics Analysis with Visualization
 - Distribution of Movie Genres Analysis with Visualization
 
-## IMDb Movie Details Scraper
+## :cinema: IMDb Movie Details Scraper
 
 The Python script is designed to scrape movie details from a specific IMDb list. It extracts information about movies, including their names, release years, runtimes, ratings, metascores (if available), and genres. 
 
@@ -37,18 +37,18 @@ The Python script is designed to scrape movie details from a specific IMDb list.
 - movie_metascores: A list of movie metascores (if available).
 - movie_genres: A list of movie genres.
 
-## IMDb Movie Review Sentiment Analysis
+## :cinema: IMDb Movie Review Sentiment Analysis
 
 The Python script scrapes movie reviews from IMDb and performs sentiment analysis to classify them as positive or negative. It uses the BeautifulSoup library for web scraping and the TextBlob library for sentiment analysis.
 
-## IMDb Movie Review Sentiment Analysis with Visualization
+## :cinema: IMDb Movie Review Sentiment Analysis with Visualization
 
 The Python script scrapes movie reviews from IMDb, performs sentiment analysis using TextBlob, and visualizes the results using a bar chart. It classifies reviews as positive or negative based on a predefined sentiment polarity threshold.
 <p align="center">
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/b1c37ed6-0851-4235-989b-d4fb3419fa26">
 </p>
 
-## IMDb List Image Downloader
+## :cinema: IMDb List Image Downloader
 
 The Python script scrapes and downloads images from an IMDb list. It sends an HTTP GET request to the IMDb list URL, parses the HTML content to find image elements with the "loadlate" class, and then proceeds to download and save these images to a specified directory.
 
@@ -56,7 +56,7 @@ The Python script scrapes and downloads images from an IMDb list. It sends an HT
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/21a34171-9b38-4acf-91e4-b902ea82923f"alt="Image" width="900">
 </p>
 
-## Top 15 Movies by Rating Visualization
+## :cinema: Top 15 Movies by Rating Visualization
 
 The Python script generates a horizontal bar chart to display the top 15 movies with the highest ratings. It uses a DataFrame to store movie data, sorts the data by rating, and then creates a visual representation of the top-rated movies.
 
@@ -64,7 +64,7 @@ The Python script generates a horizontal bar chart to display the top 15 movies 
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/fde21cb5-31c8-4da3-81d4-9106c4314c2d">
 </p>
 
-## Movie Rating statistics Analysis with Visualization
+## :cinema: Movie Rating statistics Analysis with Visualization
 
 In this analysis, we delve into the distribution of movie ratings for a set of movies. We explore the dataset, calculate key statistics, and visualize the distribution to gain insights into how these movies are rated. The dataset consists of movie ratings on a scale of 1 to 10, and our goal is to understand the central tendencies and spread of these ratings.
 
@@ -72,7 +72,7 @@ In this analysis, we delve into the distribution of movie ratings for a set of m
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/9698cdce-81ed-473a-8dfa-ff79c65418c3">
 </p>
 
-## Distribution of Movie Genres Analysis with Visualization
+## :cinema: Distribution of Movie Genres Analysis with Visualization
 
 In this analysis, we explore the distribution of movie genres within a dataset of movies. Our goal is to visualize the prevalence of different genres in the dataset, providing insights into the diversity of movie categories. The dataset includes a list of movie titles, each associated with one or more genres.
 
