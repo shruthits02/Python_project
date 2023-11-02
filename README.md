@@ -16,12 +16,23 @@ URL: https://www.imdb.com/title/tt10366206/reviews
 ## Data Content
 
 The project involves web scraping, data cleaning, analysis, and visualization data, the following information are :
-- Movie Names
-- Year of release
-- Duration
-- Movie Rating
-- Metascore
-- Genre
+- IMDb Movie Details Scraper
+- IMDb Movie Review Sentiment Analysis
+- IMDb Movie Review Sentiment Analysis with Visualization
+- IMDb List Image Downloader
+
+## IMDb Movie Details Scraper
+
+The Python script is designed to scrape movie details from a specific IMDb list. It extracts information about movies, including their names, release years, runtimes, ratings, metascores (if available), and genres. 
+
+### The script populates several lists with movie details:
+
+- movie_names: A list of movie names.
+- movie_years: A list of movie release years.
+- movie_times: A list of movie runtimes.
+- movie_ratings: A list of movie ratings.
+- movie_metascores: A list of movie metascores (if available).
+- movie_genres: A list of movie genres.
 
 ## IMDb Movie Review Sentiment Analysis
 
@@ -33,6 +44,10 @@ The Python script scrapes movie reviews from IMDb, performs sentiment analysis u
 <p align="center">
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/b1c37ed6-0851-4235-989b-d4fb3419fa26">
 </p>
+
+## IMDb List Image Downloader
+
+The Python script scrapes and downloads images from an IMDb list. It sends an HTTP GET request to the IMDb list URL, parses the HTML content to find image elements with the "loadlate" class, and then proceeds to download and save these images to a specified directory.
 
 
 
