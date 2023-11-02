@@ -62,7 +62,7 @@ The Python script scrapes and downloads images from an IMDb list. It sends an HT
 The Python script generates a horizontal bar chart to display the top 15 movies with the highest ratings. It uses a DataFrame to store movie data, sorts the data by rating, and then creates a visual representation of the top-rated movies.
 
 <p align="center">
-  <img src="https://github.com/shruthits02/Python_project/assets/147556178/fde21cb5-31c8-4da3-81d4-9106c4314c2d">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/47d9435e-9a6d-4b31-9fa6-d2b4746d72c4">
 </p>
 
 ## :cinema: Movie Rating statistics Analysis with Visualization :bar_chart:
