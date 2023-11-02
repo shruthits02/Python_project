@@ -20,6 +20,7 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - IMDb Movie Review Sentiment Analysis
 - IMDb Movie Review Sentiment Analysis with Visualization
 - IMDb List Image Downloader
+- Top 15 Movies by Rating Visualization
 
 ## IMDb Movie Details Scraper
 
@@ -49,5 +50,12 @@ The Python script scrapes movie reviews from IMDb, performs sentiment analysis u
 
 The Python script scrapes and downloads images from an IMDb list. It sends an HTTP GET request to the IMDb list URL, parses the HTML content to find image elements with the "loadlate" class, and then proceeds to download and save these images to a specified directory.
 
+## Top 15 Movies by Rating Visualization
+
+The Python script generates a horizontal bar chart to display the top 15 movies with the highest ratings. It uses a DataFrame to store movie data, sorts the data by rating, and then creates a visual representation of the top-rated movies.
+
+<p align="center">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/fde21cb5-31c8-4da3-81d4-9106c4314c2d">
+</p>
 
 
