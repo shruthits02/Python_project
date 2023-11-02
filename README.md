@@ -21,7 +21,8 @@ The project involves web scraping, data cleaning, analysis, and visualization da
 - IMDb Movie Review Sentiment Analysis with Visualization
 - IMDb List Image Downloader
 - Top 15 Movies by Rating Visualization
-- Movie Rating Distribution Analysis with Visualization
+- Movie Rating statistics Analysis with Visualization
+- Distribution of Movie Genres Analysis with Visualization
 
 ## IMDb Movie Details Scraper
 
@@ -63,12 +64,20 @@ The Python script generates a horizontal bar chart to display the top 15 movies 
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/fde21cb5-31c8-4da3-81d4-9106c4314c2d">
 </p>
 
-## Movie Rating Distribution Analysis with Visualization
+## Movie Rating statistics Analysis with Visualization
 
 In this analysis, we delve into the distribution of movie ratings for a set of movies. We explore the dataset, calculate key statistics, and visualize the distribution to gain insights into how these movies are rated. The dataset consists of movie ratings on a scale of 1 to 10, and our goal is to understand the central tendencies and spread of these ratings.
 
 <p align="center">
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/9698cdce-81ed-473a-8dfa-ff79c65418c3">
+</p>
+
+## Distribution of Movie Genres Analysis with Visualization
+
+In this analysis, we explore the distribution of movie genres within a dataset of movies. Our goal is to visualize the prevalence of different genres in the dataset, providing insights into the diversity of movie categories. The dataset includes a list of movie titles, each associated with one or more genres.
+
+<p align="center">
+  <img src="https://github.com/shruthits02/Python_project/assets/147556178/1648651a-c023-4d0f-8d2c-a997e8e8cc83">
 </p>
 
 ## Conclusion
