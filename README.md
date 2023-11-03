@@ -12,7 +12,7 @@ The information is used in this analysis is derived from the following
 ```
 URL: https://www.imdb.com/list/ls576754431/
 URL: https://www.imdb.com/title/tt10366206/reviews
-https://imdb-top-100-movies.p.rapidapi.com/
+URL: https://imdb-top-100-movies.p.rapidapi.com/
 ```
 ## :page_facing_up: Data Content
 
