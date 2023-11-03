@@ -103,3 +103,9 @@ In this project, we utilize the IMDb Top 100 Movies API from RapidAPI to collect
 ## Conclusion
 
 the Python scripts provided in this project are designed for various tasks related to movie data, including web scraping, sentiment analysis, image downloading, and statistical analysis of movie ratings. These scripts are versatile and can be adapted for specific use cases or integrated into larger projects. They demonstrate the use of libraries such as requests, beautifulsoup4, pandas, textblob, and matplotlib to perform a range of data-related tasks.
+
+## 💪 Support
+
+<p>
+<img align="left" width="100" height="100" src="https://github.com/shruthits02/SQL_PROJECT/assets/147556178/2ddf9ba2-3318-4552-96ce-c11636b50a85">
+</p>
