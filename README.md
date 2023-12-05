@@ -40,7 +40,7 @@ The Python script is designed to scrape movie details from a specific IMDb list.
 - movie_metascores: A list of movie metascores (if available).
 - movie_genres: A list of movie genres.
 
-## :cinema: Movie Rating statistics Analysis with Visualization :bar_chart:
+##  Movie Rating statistics Analysis with Visualization 
 
 In this analysis, we delve into the distribution of movie ratings for a set of movies. We explore the dataset, calculate key statistics, and visualize the distribution to gain insights into how these movies are rated. The dataset consists of movie ratings on a scale of 1 to 10, and our goal is to understand the central tendencies and spread of these ratings.
 
@@ -48,7 +48,7 @@ In this analysis, we delve into the distribution of movie ratings for a set of m
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/4d76097f-e56c-414b-9728-085573d18cf9">
 </p>
 
-## :cinema: Top 15 Movies by Rating Visualization :bar_chart:
+##  Top 15 Movies by Rating Visualization 
 
 The Python script generates a horizontal bar chart to display the top 15 movies with the highest ratings. It uses a DataFrame to store movie data, sorts the data by rating, and then creates a visual representation of the top-rated movies.
 
@@ -56,7 +56,7 @@ The Python script generates a horizontal bar chart to display the top 15 movies 
   <img src="https://github.com/shruthits02/Python_project/assets/147556178/47d9435e-9a6d-4b31-9fa6-d2b4746d72c4">
 </p>
 
-## :cinema: Distribution of Movie Genres Analysis with Visualization :bar_chart:
+##  Distribution of Movie Genres Analysis with Visualization 
 
 In this analysis, we explore the distribution of movie genres within a dataset of movies. Our goal is to visualize the prevalence of different genres in the dataset, providing insights into the diversity of movie categories. The dataset includes a list of movie titles, each associated with one or more genres.
 
